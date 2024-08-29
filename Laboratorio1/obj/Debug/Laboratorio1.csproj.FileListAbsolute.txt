@@ -1,0 +1,7 @@
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\bin\Debug\Laboratorio1.exe
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\bin\Debug\Laboratorio1.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\obj\Debug\Laboratorio1.csproj.AssemblyReference.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\obj\Debug\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\obj\Debug\Laboratorio1.exe
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio1\obj\Debug\Laboratorio1.pdb
