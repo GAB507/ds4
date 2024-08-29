@@ -10,6 +10,7 @@ namespace Laboratorio_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
         }
     }
 }
