@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\bin\Debug\Laboratorio31.exe.config
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\bin\Debug\Laboratorio31.exe
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\bin\Debug\Laboratorio31.pdb
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\obj\Debug\Laboratorio31.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\obj\Debug\Laboratorio31.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\obj\Debug\Laboratorio31.exe
+C:\Users\ABC\source\repos\ds4\Laboratorio3\Laboratorio31\obj\Debug\Laboratorio31.pdb
