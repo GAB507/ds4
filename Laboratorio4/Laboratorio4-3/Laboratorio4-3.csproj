@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Laboratorio4_3</RootNamespace>
+    <StartupObject>Laboratorio4_3.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
