@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4-4\\Laboratorio4-4.csproj": {}
+    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4\\Laboratorio4-4\\Laboratorio4-4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4-4\\Laboratorio4-4.csproj": {
+    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4\\Laboratorio4-4\\Laboratorio4-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4-4\\Laboratorio4-4.csproj",
+        "projectUniqueName": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4\\Laboratorio4-4\\Laboratorio4-4.csproj",
         "projectName": "Laboratorio4-4",
-        "projectPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4-4\\Laboratorio4-4.csproj",
+        "projectPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4\\Laboratorio4-4\\Laboratorio4-4.csproj",
         "packagesPath": "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4-4\\obj\\",
+        "outputPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Laboratorio4\\Laboratorio4-4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
