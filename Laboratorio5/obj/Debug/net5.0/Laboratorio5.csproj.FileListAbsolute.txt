@@ -1,0 +1,5 @@
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\obj\Debug\net5.0\Laboratorio5.csproj.AssemblyReference.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\obj\Debug\net5.0\Laboratorio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\obj\Debug\net5.0\Laboratorio5.AssemblyInfoInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\obj\Debug\net5.0\Laboratorio5.AssemblyInfo.cs
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\obj\Debug\net5.0\Laboratorio5.csproj.CoreCompileInputs.cache

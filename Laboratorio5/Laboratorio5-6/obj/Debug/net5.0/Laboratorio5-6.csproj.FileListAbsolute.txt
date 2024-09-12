@@ -1,0 +1,16 @@
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\Laboratorio5-6.exe
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\Laboratorio5-6.deps.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\Laboratorio5-6.runtimeconfig.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\Laboratorio5-6.runtimeconfig.dev.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\Laboratorio5-6.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\ref\Laboratorio5-6.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\bin\Debug\net5.0\Laboratorio5-6.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.csproj.AssemblyReference.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.AssemblyInfoInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.AssemblyInfo.cs
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.csproj.CoreCompileInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\ref\Laboratorio5-6.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio5\Laboratorio5-6\obj\Debug\net5.0\Laboratorio5-6.genruntimeconfig.cache
