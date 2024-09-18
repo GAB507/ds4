@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7-1\\Lab7-1.csproj": {}
+    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7\\Lab7-1\\Lab7-2\\Lab7-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7-1\\Lab7-1.csproj": {
+    "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7\\Lab7-1\\Lab7-2\\Lab7-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7-1\\Lab7-1.csproj",
-        "projectName": "Lab7-1",
-        "projectPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7-1\\Lab7-1.csproj",
+        "projectUniqueName": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7\\Lab7-1\\Lab7-2\\Lab7-2.csproj",
+        "projectName": "Lab7-2",
+        "projectPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7\\Lab7-1\\Lab7-2\\Lab7-2.csproj",
         "packagesPath": "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7-1\\obj\\",
+        "outputPath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\GAB507\\ds4\\Lab7\\Lab7-1\\Lab7-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
