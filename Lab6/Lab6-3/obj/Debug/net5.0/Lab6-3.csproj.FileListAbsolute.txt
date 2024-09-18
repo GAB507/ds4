@@ -1,0 +1,16 @@
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\Lab6-3.exe
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\Lab6-3.deps.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\Lab6-3.runtimeconfig.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\Lab6-3.runtimeconfig.dev.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\Lab6-3.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\ref\Lab6-3.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\bin\Debug\net5.0\Lab6-3.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.csproj.AssemblyReference.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.AssemblyInfoInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.AssemblyInfo.cs
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.csproj.CoreCompileInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\ref\Lab6-3.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Lab6\Lab6-3\obj\Debug\net5.0\Lab6-3.genruntimeconfig.cache
