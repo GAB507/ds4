@@ -1,0 +1,16 @@
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\Laboratorio10-2.exe
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\Laboratorio10-2.deps.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\Laboratorio10-2.runtimeconfig.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\Laboratorio10-2.runtimeconfig.dev.json
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\Laboratorio10-2.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\ref\Laboratorio10-2.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\bin\Debug\net5.0\Laboratorio10-2.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.vbproj.AssemblyReference.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.AssemblyInfoInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.AssemblyInfo.vb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.vbproj.CoreCompileInputs.cache
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\ref\Laboratorio10-2.dll
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.pdb
+C:\Users\ELI_BENDECIDA\source\repos\GAB507\ds4\Laboratorio-10\Laboratorio10-2\obj\Debug\net5.0\Laboratorio10-2.genruntimeconfig.cache
