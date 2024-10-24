@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rvDNcVYevA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELI_BENDECIDA\\source\\repos\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512",
+    "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\ELI_BENDECIDA\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Data.SqlClient 4.8.6 depende de Microsoft.Win32.Registry (>= 4.7.0), pero no se encontró Microsoft.Win32.Registry 4.7.0. Se resolvió una mejor coincidencia aproximada de Microsoft.Win32.Registry 5.0.0.",
+      "libraryId": "Microsoft.Win32.Registry",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.Win32.Registry 5.0.0 depende de System.Security.AccessControl (>= 5.0.0), pero no se encontró System.Security.AccessControl 5.0.0. Se resolvió una mejor coincidencia aproximada de System.Security.AccessControl 6.0.0.",
+      "libraryId": "System.Security.AccessControl",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "System.Data.SqlClient 4.8.6 depende de System.Security.Principal.Windows (>= 4.7.0), pero no se encontró System.Security.Principal.Windows 4.7.0. Se resolvió una mejor coincidencia aproximada de System.Security.Principal.Windows 5.0.0.",
+      "libraryId": "System.Security.Principal.Windows",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ncalc 1.3.8\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ncalc",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
